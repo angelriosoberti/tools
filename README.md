@@ -1,4 +1,7 @@
 # tools
+
+
+
 Subnetting Script
 
 This Python script helps you perform subnetting calculations. It takes an IP address and a subnet mask as input and calculates subnet information such as network address, first and last host, broadcast address, and wildcard mask.
@@ -21,3 +24,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
